@@ -1,4 +1,4 @@
-# pong-game
+# Pong game
 
 Pong game to play against the computer. Try to score more points than the machine!!
 
